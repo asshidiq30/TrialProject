@@ -1,0 +1,5 @@
+Resolusi 2020:
+- Belajar Python
+- Belajar Database
+- Belajar SQL
+- Selesaikan Project
