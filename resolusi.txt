@@ -3,5 +3,4 @@ Resolusi 2020:
 - Belajar Database
 - Belajar SQL
 - Selesaikan Project
-- Membuat Merchendaise
-- Kolaborasi dengan Programmer lain
+- Kolaborasi
