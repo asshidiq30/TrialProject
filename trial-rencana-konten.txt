@@ -1,6 +1,0 @@
-Rencana Konten:
-- Javascript
-- PHP Framework
-- SQL
-- Interview
-- Vlog
