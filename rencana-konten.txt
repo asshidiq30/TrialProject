@@ -2,8 +2,11 @@ Rencana Konten:
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue JS
 - Fundamental Data Structure
 - PHP Framework
+  ^ Laravel
 - SQL
 - Interview
 - Vlog
+- Python
