@@ -2,8 +2,10 @@ Rencana Konten:
 - Javascript
   * ES6
   * Framework Javascript
-- Fundamental Data Structure
+    ^ Angular JS
+    ^ React JS
 - PHP Framework
+  ^ Laravel
 - SQL
 - Interview
 - Vlog
